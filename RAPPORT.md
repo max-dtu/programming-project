@@ -1,3 +1,27 @@
+---
+authors:
+  - name: Student Name
+    studentid: s123456
+  - name: Student Name
+    studentid: s654321
+contributions:
+  - introduction:
+        s123456: 100
+  - problem-statement:
+        s654321: 75
+        s123456: 25
+  - design:
+        s123456: 100
+  - implementation:
+        s654321: 75
+        s123456: 25
+  - validation:
+        s123456: 100
+  - discussion:
+        s654321: 25
+        s123456: 75
+...
+
 # Rapport
 
 Dette er en vejledende og løs beskrivelse af, hvad der skal være i en god rapport.
@@ -117,3 +141,18 @@ Ting der er gode at få med:
 - [ ] Hvad gik godt, hvad gik dårligt?
 - [ ] Næste gang, hvad ville I gøre anderledes?
 - [ ] Hvad har I lært?
+
+
+### Arbejdfordeling og Brug af AI
+
+> _Hvem gjorde hvad?_
+
+I denne sektion skal I redegøre for hvem der har gjort hvad. 
+I **SKAL** fortælle hvordan/hvis I har brugt AI.
+
+Ting der er gode at få med:
+
+- [ ] Er I enige med den contribution score I har fået? Hvis ikke, hvorfor? Giv gerne konkrete eksempler, og en alternativ fordeling.
+- [ ] Er der arbejde der ikke er blevet reflekteret diverse contribution scores så skal I næve det her.
+
+
